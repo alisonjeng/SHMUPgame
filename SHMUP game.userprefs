@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyControl5.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="52" Column="4" />
+      <File FileName="Assets/Scripts/EnemyControl2.cs" Line="55" Column="50" />
+      <File FileName="Assets/Scripts/EnemyControl4.cs" Line="48" Column="80" />
+      <File FileName="Assets/Scripts/EnemyControl3.cs" Line="48" Column="80" />
+      <File FileName="Assets/Scripts/EnemyControl1.cs" Line="51" Column="4" />
+      <File FileName="Assets/Scripts/Destroyer1.cs" Line="8" Column="25" />
+      <File FileName="Assets/Scripts/EnemyControl5.cs" Line="50" Column="80" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="19" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alisonjeng/SHMUP game/Assets/EnemyControl3.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

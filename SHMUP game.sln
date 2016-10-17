@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{72A02435-F978-0C4E-420F-EB6895C51A75}") = "SHMUP game", "Assembly-CSharp.csproj", "{096AD240-7735-E8F5-374C-F064FBBA7291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096AD240-7735-E8F5-374C-F064FBBA7291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096AD240-7735-E8F5-374C-F064FBBA7291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096AD240-7735-E8F5-374C-F064FBBA7291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096AD240-7735-E8F5-374C-F064FBBA7291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
